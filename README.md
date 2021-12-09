@@ -13,13 +13,14 @@ Usually you'll find me asking questions on Twitter: [@NataliePis](https://twitte
 - Lead Developer Advocate at [Aerospike](https://twitter.com/aerospikedb/)
 - [GoTime podcast co-host](https://twitter.com/gotimefm)
 - [Public Speaker](https://github.com/pisush/public-speaking)
+- Sailor. Here I am not wearing a hat, but rather the hoodie of the waterproof coat.
 
 
 🔭 I’m currently working on 🔭
 
 - [Advent of Code(x)](https://www.youtube.com/watch?v=5Vl5uOy4oQ4&list=PLQTDXis1psVf60baWXivYS8nLqPSGSG2t): solving [Advent of Code](https://adventofcode.com/) with [OpenAI's Codex](https://openai.com/blog/openai-codex/)
 - [Fun demos with Codex](https://www.youtube.com/watch?v=fuFh_CDByHA&list=PLQTDXis1psVf7-Jr9vjne3_mMqjWPpsmu)
-- Blog for summarizing AI-related papers
+- [Newsletter for summarizing AI-related papers](https://nataliepis.substack.com/account)
 - Technical reviewer for O'Reilly. Already public: [Cloud Native Go](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments-ebook/dp/B09328K9QG)
 
 
