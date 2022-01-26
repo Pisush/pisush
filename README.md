@@ -10,7 +10,7 @@ Usually you'll find me asking questions on Twitter: [@NataliePis](https://twitte
 
 - [OpenAI Developer Ambassador](https://openai.com/blog/gpt-3-apps/)
 - [Google Developer Expert for Go](https://developers.google.com/community/experts/directory/profile/profile-natalie-pistunovich)
-- Lead Developer Advocate at [Aerospike](https://twitter.com/aerospikedb/)
+- Doing all the tech related things at [Entor](https://entor.io)
 - [GoTime podcast co-host](https://twitter.com/gotimefm)
 - [Public Speaker](https://github.com/pisush/public-speaking)
 - Sailor. Here I am not wearing a hat, but rather the hoodie of the waterproof coat.
