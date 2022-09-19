@@ -10,7 +10,6 @@ Usually you'll find me asking questions on Twitter: [@NataliePis](https://twitte
 
 - [OpenAI Developer Ambassador](https://openai.com/blog/gpt-3-apps/)
 - [Google Developer Expert for Go](https://developers.google.com/community/experts/directory/profile/profile-natalie-pistunovich)
-- Doing all the tech related things at [Entor](https://entor.io)
 - [GoTime podcast co-host](https://twitter.com/gotimefm)
 - [Public Speaker](https://github.com/pisush/public-speaking)
 - Teaching the Summer Semester course on Cloud and Infrastructure (B.Sc.) at the [HTW Berlin](https://www.htw-berlin.de/)
@@ -19,6 +18,7 @@ Usually you'll find me asking questions on Twitter: [@NataliePis](https://twitte
 
 🔭 I’m currently working on 🔭
 
+- [Blog on how I use AI to automate as much of my work as possible](https://github.com/Pisush/code-with-ai)
 - Technical reviewer for O'Reilly. Already public: [Cloud Native Go](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments-ebook/dp/B09328K9QG)
 - [Fun demos with Codex](https://www.youtube.com/watch?v=fuFh_CDByHA&list=PLQTDXis1psVf7-Jr9vjne3_mMqjWPpsmu)
 - [Newsletter for summarizing AI-related papers](https://nataliepis.substack.com/account)
