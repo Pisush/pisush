@@ -8,7 +8,7 @@ Usually you'll find me asking questions on Twitter: [@NataliePis](https://twitte
 
 🎩  I am wearing several hats 🎩
 
-- [OpenAI Developer Ambassador](https://openai.com/blog/gpt-3-apps/)
+- [OpenAI Developer Ambassador](https://beta.openai.com/ambassadors) - also a freelance developer and advisor for AI systems
 - [Google Developer Expert for Go](https://developers.google.com/community/experts/directory/profile/profile-natalie-pistunovich)
 - [GoTime podcast co-host](https://twitter.com/gotimefm)
 - [Public Speaker](https://github.com/pisush/public-speaking)
@@ -21,9 +21,8 @@ Usually you'll find me asking questions on Twitter: [@NataliePis](https://twitte
 - [Blog on how I use AI to automate as much of my work as possible](https://github.com/Pisush/code-with-ai)
 - Technical reviewer for O'Reilly. Already public: [Cloud Native Go](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments-ebook/dp/B09328K9QG)
 - [Fun demos with Codex](https://www.youtube.com/watch?v=fuFh_CDByHA&list=PLQTDXis1psVf7-Jr9vjne3_mMqjWPpsmu)
-- [Newsletter for summarizing AI-related papers](https://nataliepis.substack.com/account)
-- ~~[Advent of Code(x)](https://www.youtube.com/watch?v=5Vl5uOy4oQ4&list=PLQTDXis1psVf60baWXivYS8nLqPSGSG2t): solving [Advent of Code](https://adventofcode.com/) with [OpenAI's Codex](https://openai.com/blog/openai-codex/)~~ Gave up at the Python day, but all earlier videos are available
-
+- [Newsletter with my thoughts on AI](https://nataliepis.substack.com/account)
+- [A 7 episode LLM Sec Podcast](https://open.spotify.com/show/3PJEuNfHJg0TesJtogtz2L?si=a6544a34b3754a2f)
 
 
 📣  Conferences I'm organizing 📣
